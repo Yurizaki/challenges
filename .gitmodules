@@ -1,3 +1,3 @@
 [submodule "codewars"]
 	path = codewars
-	url = .\\codewars\\
+	url = https://github.com/Yurizaki/codewars.git
