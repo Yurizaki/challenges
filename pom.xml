@@ -18,5 +18,6 @@
     <modules>
         <module>codewars</module>
         <module>projecteuler</module>
+        <module>buildyourown</module>
     </modules>
 </project>

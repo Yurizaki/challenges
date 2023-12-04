@@ -4,3 +4,6 @@
 [submodule "projecteuler"]
 	path = projecteuler
 	url = https://github.com/Yurizaki/projecteuler.git
+[submodule "buildyourown"]
+	path = buildyourown
+	url = https://github.com/Yurizaki/buildyourown.git
