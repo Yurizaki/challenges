@@ -1,3 +1,6 @@
 [submodule "codewars"]
 	path = codewars
 	url = https://github.com/Yurizaki/codewars.git
+[submodule "projecteuler"]
+	path = projecteuler
+	url = https://github.com/Yurizaki/projecteuler.git

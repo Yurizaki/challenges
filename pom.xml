@@ -16,8 +16,7 @@
     </properties>
 
     <modules>
-        <module>
-            codewars
-        </module>
+        <module>codewars</module>
+        <module>projecteuler</module>
     </modules>
 </project>
